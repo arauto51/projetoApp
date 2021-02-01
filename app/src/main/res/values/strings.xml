@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TelaLogin</string>
+    <string name="Usurario_value">Usuario</string>
+    <string name="Senha_User" />
+    <string name="User_senha">Senha</string>
+    <string name="Sign_Info">Digite Suas Informações Abaixo :</string>
+    <string name="Inscrevese_info">Caso Não Possua Uma Conta, Vá em Criar Conta, Para ter Acesso no Aplicativo :</string>
+    <string name="Criar_Conta">Criar Conta</string>
+    <string name="Login_value">Login</string>
+    <string name="Tela2_voltar">Voltar</string>
+    <string name="Cadastro_info_voltar">Se já possui uma Conta, aperte em voltar para retorna ao Login</string>
+    <string name="Finalizar_cadastro">Criar Conta</string>
+    <string name="Inicio_Login">Use seu nome d usuario e senha para acessar sua conta</string>
+    <string name="Pedidos">Acompanhe seu pedido</string>
+    <string name="Buscar_Pratos_Res">Buscar toda as lojas</string>
+    <string name="Filtro">Filtro</string>
+    <string name="Olá">Olá</string>
+    <string name="Busca">Filtro</string>
+    <string name="Buscar">Produtos ou Lojas</string>
+    <string name="Opcões">Opções</string>
+    <string name="busca1">Buscas</string>
+    <string name="Nome" />
+    <string>Login</string>
+    <string name="Cadastro_value">Cadastro</string>
+    <string name="nome_value">Nome</string>
+    <string name="sobrenome_value">Sobrenome</string>
+    <string name="Email_value">Email</string>
+    <string name="senha_value">Senha</string>
+    <string name="login1">Login</string>
+    <string name="Botão_value">Entrar</string>
+    <string name="comprar_value">Comprar</string>
+    <string name="MENU_P">Menu Principal</string>
+    <string name="P">Produtos</string>
+    <string name="Nome_p2">Nome do Produto</string>
+    <string name="preço_produtos1">Preço</string>
+    <string name="Cadastro_produtos111">Cadastre seu Produto</string>
+    <string name="Eamil_12">Email</string>
+    <string name="cada12">Cadastro</string>
+    <string name="cad_voltar1">Voltar</string>
+    <string name="cad25">Cadastrando produto</string>
+</resources>
